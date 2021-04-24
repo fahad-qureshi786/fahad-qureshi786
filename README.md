@@ -18,29 +18,25 @@
     I am also a Student at Sukkur IBA University in BS Computer Science since half of 2019.
 
 # Technologies I am working with:
-    	Spring Framework(Java)
-    	Spring Boot
-    	Spring data JPA with Hibernate
-    	Lombok
-    	Spring Web
+       Spring Cloud	
+        Spring Framework(Java)
     	Maven
-    	Spring boot DevTools
-    	MySQL JDBC Driver
+    	DevOps
     	Spring Security
     	React JS
-    	Type Script 
     	Spring boot
     	Spring MVC
     	Spring Cloud
     	Javafx
     	C# 
-    	Angular CLI
 # Tools:
     	Java Development Kit 1.8 or 13
     	MySQL Community Server and Tools (Workbench)
+    	SQL Server
+    	PostgreSQL
     	Php MyAdmin
     	PostgreSQL
-    	Git
+    	Git  | Version Control Tool
     	SQL Server Studio
     	PostgreSQL 
     	XAMPP Server
