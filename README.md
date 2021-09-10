@@ -1,13 +1,13 @@
-### I am Fahad Shahzad 👋
+### I am Fahad Shahzad 👋👋🙏🙏🙏
 
 #  Profession:
-    I am a Software Developer since half of 2020 in Idea2Product Software Company Sukkur. I am currently working as a Full Stack Developer.
-    For front end I am using React JS and Angular CLI according to need and demand.
-    For backend I use Java(Spring boot)
+    I am a Software Engr. since half of 2020 in Idea 2 Product Software Company at Sukkur Pakistan. I am currently working as a Full Stack Developer.
+    For front end I am using React JS, Next.Js with cool advance libraries according to customers demand.
+    For backend I use Java(Spring boot), Spring boot Microservices (Load Balancers etc)
     I am also a Youtuber.
-    I am also a Blogger for showing my Programming Success and helping the community
+    I believe that hardwork and passion can pay you back. I have reaped results of my efforts. In my free time, I used to write blogs to enhance my understanding and to share my knowledge in community because I believe that sharing is caring.
 # My Work and projects
-    My work is also uploaded on https://github.com/fahadshahzad786
+    * My work is also uploaded on https://github.com/fahadshahzad786
 # Youtube Link
     	https://www.youtube.com/channel/UCuvCb3l11HzYxDFrQbEVKWw
     BROKE THE CODE
