@@ -63,5 +63,5 @@
     👉  APIs Testing Tools
             Postman Client
             Swagger
-   👉 Database Designing
+    👉 Database Designing
             UML
