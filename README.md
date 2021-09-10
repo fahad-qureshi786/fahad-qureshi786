@@ -46,7 +46,7 @@
                     Next.Js framework for Server Side
     👉  Mobile
             Flutter
-# Tools:
+    👇 Tools:
     👉	JDK 1.8, 11
     👉	Databases
             * MySQL Community Server
