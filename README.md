@@ -37,7 +37,8 @@
             Spring Security 
             Centeralized Logging System
             Swagger
-            Thymeleaf for Server Side Applications
+            Thymeleaf based Server Side Applications
+            JSP based server side spring boot application
     👉	Front End
             HTML5
             CSS ======> SASS Framework
@@ -61,12 +62,14 @@
             Jira for Software Project Management
     👉  Development IDEs
             Jetbrains IntelliJ Idea (Community Edition)
+            Netbeans
+            Eclipse 
     👉  APIs Testing Tools
             Postman Client
             Swagger
     👉 Database Designing
             UML
-
+                 Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
