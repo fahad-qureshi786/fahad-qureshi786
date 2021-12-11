@@ -1,4 +1,4 @@
-### Hi, I am Fahad Shahzad 👋👋🙏🙏🙏
+### Hi, I am Fahad Shahzad
 
     
 ### Student Life
