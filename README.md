@@ -17,7 +17,10 @@
     * POS Product deployed in more than 5 places in Markeet.
     * Accounting Management for Real Estate Business Deployed in more than 3 places
     * Deployed one project in the academic sector to solve the problem of thousands of students.
-### Youtube Link
+### Social Media
+        ```
+        ![image info](https://www.youtube.com/channel/UCuvCb3l11HzYxDFrQbEVKWw)
+        ```
     🔗	https://www.youtube.com/channel/UCuvCb3l11HzYxDFrQbEVKWw
         Channel Name: BROKE THE CODE
 ### Blog Link    
