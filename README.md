@@ -44,8 +44,8 @@
             CSS ======> SASS Framework
             Bootstrap 5
             Javascript
-                React.Js
-                    Next.Js framework for Server Side
+                React.Js with Redux
+                    Next.Js framework for Server Side Enterprise Application Development
     👉  Mobile
             Flutter
     👇 Tools:
@@ -63,6 +63,7 @@
     👉  Development IDEs
             Jetbrains IntelliJ Idea (Community Edition)
             Netbeans
+            Visual Studio Code
             Eclipse 
     👉  APIs Testing Tools
             Postman Client
