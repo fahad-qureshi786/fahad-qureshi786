@@ -18,10 +18,13 @@
     * Accounting Management for Real Estate Business Deployed in more than 3 places
     * Deployed one project in the academic sector to solve the problem of thousands of students.
 ### Social Media
-    🔗	https://www.youtube.com/channel/UCuvCb3l11HzYxDFrQbEVKWw
-        Channel Name: BROKE THE CODE
+    🔗	https://www.youtube.com/channel/UCxekjgN8zjJyA_eNHxiZ0rQ
+        Channel Name: Fahad Tech
 ### Blog Link    
     🔗 https://comewithnew.blogspot.com
+### Portfolio    
+    🔗 http://fahadshahzad.netlify.com
+    
 
 ### Technologies I am working with:
     👉   Spring (Java)
