@@ -42,6 +42,14 @@
             Swagger
             Thymeleaf based Server Side Applications
             JSP based server side spring boot application
+    
+    👉	Blockchain
+            Ethereum Smart Contract Developer
+            IPFS
+            Sanity
+            Opensea
+            Standard ERC-721 for NFT
+            DAPs development with React Js and Next.js
     👉	Front End
             HTML5
             CSS ======> SASS Framework
