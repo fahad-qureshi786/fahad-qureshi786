@@ -23,7 +23,7 @@
 ### Blog Link    
     🔗 https://comewithnew.blogspot.com
 ### Portfolio    
-    🔗 http://fahadshahzad.netlify.com
+    🔗 http://fahadshahzad.com/
     
 
 ### Technologies I am working with:
