@@ -20,8 +20,8 @@
 ### Social Media
     🔗	https://www.youtube.com/channel/UCxekjgN8zjJyA_eNHxiZ0rQ
         Channel Name: Fahad Tech
-### Blog Link    
-    🔗 https://comewithnew.blogspot.com
+### Company Site 
+    🔗 http://fastechpk.com
 ### Portfolio    
     🔗 http://fahadshahzad.com/
     
