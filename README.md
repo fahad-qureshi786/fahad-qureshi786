@@ -1,30 +1,31 @@
-### Hi, I am Fahad Shahzad
+### Hi there, Fahad Shahzad here 😍
 
     
 ### Student Life
-    I did my matric and Intermediate from Higher Secondary School at Ghazi Ghat... 
-    For now, I am a Student of Computer Science in reputed University (Sukkur IBA University) as a Schollar. (2019-present)
+    I did my matriculation and Intermediate from Higher Secondary School at Ghazi Ghat Pakistan... 
+    For now, I am a Schollar at one of the reputed University (Sukkur IBA University) in Computer Science Major. (2019-present)
 
 ###  Professional Side:
-    I started my Professional Career from start of 4th Semester in my Graduation in Software Industary.
-    Now, I am a Software Engr. since half of 2020 in Idea 2 Product Software Company at Sukkur Pakistan. I am currently working as a Full Stack Developer.
-    For front end I am using React JS, Next.Js with cool advance libraries according to customers demand.
+    I started my Professional Career as Junior Software Engineer since start of 4th Semester in my Graduation in Software Industary.
+    In mid of 2020 I started working as Software Engineer at Idea 2 Product Software Company at Sukkur Pakistan. 
+    After having a handsome experience from reputed software house, now I have my own best team and startup of more than 10 developers contributing and         providing services with mentioned technologies below
+    > For front end I am using React JS, Next.Js with cool advance libraries according to customers demand.
     For backend I use Java(Spring boot), Spring boot Microservices (Load Balancers etc)
-    I am also a Youtuber.
-    I believe that hardwork and passion can pay you back. I have reaped results of my efforts. In my free time, I used to write blogs to enhance my understanding and to share my knowledge in community because I believe that sharing is caring.
+    I believe that hardwork and passion can pay you back. I have reaped results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in community because I believe that sharing is caring.
 ### My Work and projects
     * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend services.
     * POS Product deployed in more than 5 places in Markeet.
     * Accounting Management for Real Estate Business Deployed in more than 3 places
     * Deployed one project in the academic sector to solve the problem of thousands of students.
+    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arival time functionality for educational pick and drop services providers
 ### Social Media
     🔗	https://www.youtube.com/channel/UCxekjgN8zjJyA_eNHxiZ0rQ
         Channel Name: Fahad Tech
 ### Company Site 
     🔗 http://fastechpk.com
+    
 ### Portfolio    
     🔗 http://fahadshahzad.com/
-    
 
 ### Technologies I am working with:
     👉   Spring (Java)
@@ -47,9 +48,10 @@
             Ethereum Smart Contract Developer
             IPFS
             Sanity
-            Opensea
+            Solidity
+            Opensea Markeetplace NFT Minting
             Standard ERC-721 for NFT
-            DAPs development with React Js and Next.js
+            DAPs development with React Js and Next.js with ETH and more other currencies 
     👉	Front End
             HTML5
             CSS ======> SASS Framework
@@ -58,7 +60,7 @@
                 React.Js with Redux
                     Next.Js framework for Server Side Enterprise Application Development
     👉  Mobile
-            Flutter
+            React Native
     👇 Tools:
     👉	JDK 1.8, 11
     👉	Databases
@@ -80,6 +82,8 @@
             Postman Client
             Swagger
     👉 Database Designing
+            Figma
+            Creatly
             UML
                  Usecase, Class Diagrams, Entity Diagrams, Sequence Diagrams
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
