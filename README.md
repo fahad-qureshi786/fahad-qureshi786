@@ -3,11 +3,11 @@
     
 ### Student Life
     I did my matriculation and Intermediate from Higher Secondary School at Ghazi Ghat Pakistan... 
-    For now, I am a Schollar at one of the reputed University (Sukkur IBA University) in Computer Science Major. (2019-present)
+    For now, I am a Schollar at one of the reputed University (Sukkur IBA University) in Computer Science Major
 
 ###  Professional Side:
     I started my Professional Career as Junior Software Engineer since start of 4th Semester in my Graduation in Software Industary.
-    In mid of 2020 I started working as Software Engineer at Idea 2 Product Software Company at Sukkur Pakistan. 
+    Mean-while Software Engineer at Idea 2 Product Software Company at Sukkur Pakistan. 
     After having a handsome experience from reputed software house, now I have my own best team and startup of more than 10 developers contributing and         providing services with mentioned technologies below
     > For front end I am using React JS, Next.Js with cool advance libraries according to customers demand.
     For backend I use Java(Spring boot), Spring boot Microservices (Load Balancers etc)
