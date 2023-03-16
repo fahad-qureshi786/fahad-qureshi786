@@ -25,7 +25,7 @@
     🔗 http://fastechpk.com
     
 ### Portfolio    
-    🔗 http://fahadshahzad.com/
+    🔗 https://fahadshahzad.netlify.com/
 
 ### Technologies I am working with:
     👉   Spring (Java)
