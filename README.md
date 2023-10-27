@@ -2,15 +2,14 @@
 
 
 ###  About Fahad's Professional Side:
-    - **Jul 2019 - Aug 2021** -> Started as a junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
-    - **March 2022 - March 2023** -> Freelance career at Fiverr & Upwork (Secured Level 2 Seller Position on Fiverr and Rising Talent @Upwork)
-    - **June 2022 - March, 2023** -> Frontend Engineer Blockchain & Web3 at New York City United States
-    - **Jul 2022 - Present** -> Hired as Co-Founder & CTO [at impros.io](https://impros.io/) -> as a Java Full Stack Developer Expert
-    - **March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Node JS (MERN Stack), Artificial Intelligence and Machine Learning & Management
-    - **March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Artificial Intelligence and Machine Learning & Management
-    - **Aug, 2023 - Present** -> Promoted to Co-Founder & CTO at [Augier.ai](https://augier.ai)
-
-    Hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and share my knowledge in the community because sharing is caring at [Fahad's Blogs](https://www.fahadshahzad.com/blog)
+**Jul 2019 - Aug 2021** -> Started as a junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
+**March 2022 - March 2023** -> Freelance career at Fiverr & Upwork (Secured Level 2 Seller Position on Fiverr and Rising Talent @Upwork)
+**June 2022 - March, 2023** -> Frontend Engineer Blockchain & Web3 at New York City United States
+**Jul 2022 - Present** -> Hired as Co-Founder & CTO [at impros.io](https://impros.io/) -> as a Java Full Stack Developer Expert
+**March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Node JS (MERN Stack), Artificial Intelligence and Machine Learning & Management
+**March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Artificial Intelligence and Machine Learning & Management
+**Aug, 2023 - Present** -> Promoted to Co-Founder & CTO at [Augier.ai](https://augier.ai)
+Hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and share my knowledge in the community because sharing is caring at [Fahad's Blogs](https://www.fahadshahzad.com/blog)
 
     
 ### My Work and projects
