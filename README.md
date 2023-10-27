@@ -1,31 +1,34 @@
-### Hi there, Fahad Shahzad here 😍 
+### Hi there, Fahad here 🧑‍💻
+
+
+###  About Fahad's Professional Side:
+    - **Jul, 2019 - Aug, 2021** -> Started as junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
+    - **March 2022 - March 2023** -> Freelance career at Fiverr & Upwork (Secured Level 2 Seller Position on Fiverr and Rising Talent @Upwork)
+    - **June 2022 - March, 2023** -> Frontend Engineer Blockchain & Web3 at New York City United States
+    - **Jul 2022 - Present** -> Hired as Co-Founder & CTO [at impros.io](https://impros.io/) -> as a Java Full Stack Developer Expert
+    - **March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Node JS (MERN Stack), Artificial Intelligence and Machine Learning & Management
+    - **March 2023 - Aug 2023** -> Promoted to Senior Full Stack Engineer -> React, Next.js, Artificial Intelligence and Machine Learning & Management
+    - **Aug, 2023 - Present** -> Promoted to Co-Founder & CTO at [Augier.ai](https://augier.ai)
+
+    Hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my understanding and share my knowledge in the community because sharing is caring at [Fahad's Blogs](https://www.fahadshahzad.com/blog)
 
     
-### Student Life
-    I did my matriculation and Intermediate from Higher Secondary School in Ghazi Ghat Pakistan... 
-    For now, I am a Scholar at one of the reputed Universities (Sukkur IBA University) in Computer Science Major
-
-###  Professional Side:
-    I started my Professional Career as a Junior Software Engineer at the start of 4th Semester of my Graduation in the Software industry.
-    Mean-while Software Engineer at Idea 2 Product Software Company in Sukkur Pakistan. 
-    After having a handsome experience from a reputed software house, now I have my own best team and startup of more than 10 developers contributing and providing services 
-    with mentioned technologies below
->   For the front end I am using **React JS 🕸️**, and **Next.Js** with cool advance libraries according to customers' demand.
-    For backend, I use **Java(Spring boot)**, **Spring boot Microservices (Load Balancers etc)**
-    I believe that hard work and passion can pay you back. I have reaped the results of my efforts. In my free time, I used to write blogs to enhance my      understanding and to share my knowledge in the community because I believe that sharing is caring.
 ### My Work and projects
     * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
     * POS Product deployed in more than 5 places in Markeet.
     * Accounting Management for Real Estate Business Deployed in more than 3 places
     * Deployed one project in the academic sector to solve the problem of thousands of students.
     * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
+
+    There are plenty of projects done in my own company for my clients you may check my portfolio: [Fahad's Portfolio](https://www.fahadshahzad.com/)
+    
 ### Company Site 
-    🔗 [Fahad's Company Website](https://www.fastechsystem.com/)
+    🔗 [FasTech Official Website](https://www.fastechsystem.com/)
     
 ### Portfolio    
     🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
 
-### Technologies I am working with:
+### Technologies I can flow in:
     👉   Spring (Java)
             Spring Framework(Java)
             Spring boot Microservices
@@ -53,13 +56,13 @@
             HTML5
             CSS ======> SASS Framework
             Bootstrap 5
+            antd
+            material ui
+            react-bootstrap
+            custom css frameworks
             Javascript
                 React.Js with Redux
                     Next.Js framework for Server Side Enterprise Application Development
-    👉  Mobile
-            Flutter
-    👇 Tools:
-    👉	JDK 1.8, 11, 17, 18
     👉	Databases
             * MySQL Community Server
             * PostgreSQL Server
