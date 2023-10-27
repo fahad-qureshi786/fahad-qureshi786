@@ -2,7 +2,7 @@
 
 
 ###  About Fahad's Professional Side:
-    - **Jul, 2019 - Aug, 2021** -> Started as junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
+    - **Jul 2019 - Aug 2021** -> Started as a junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
     - **March 2022 - March 2023** -> Freelance career at Fiverr & Upwork (Secured Level 2 Seller Position on Fiverr and Rising Talent @Upwork)
     - **June 2022 - March, 2023** -> Frontend Engineer Blockchain & Web3 at New York City United States
     - **Jul 2022 - Present** -> Hired as Co-Founder & CTO [at impros.io](https://impros.io/) -> as a Java Full Stack Developer Expert
