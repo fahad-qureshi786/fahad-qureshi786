@@ -13,19 +13,19 @@ Hard work and passion can pay you back. I have reaped the results of my efforts.
 
     
 ### My Work and projects
-    * Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
-    * POS Product deployed in more than 5 places in Markeet.
-    * Accounting Management for Real Estate Business Deployed in more than 3 places
-    * Deployed one project in the academic sector to solve the problem of thousands of students.
-    * GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
+* Data analysis and operations on existing data with JS Graphical Interfaces with Spring boot as a backend service.
+* POS Product deployed in more than 5 places in Markeet.
+* Accounting Management for Real Estate Business Deployed in more than 3 places
+* Deployed one project in the academic sector to solve the problem of thousands of students.
+* GPS and GSM Based Vehicle Tracking and Reservation with Estimated Arrival time functionality for educational pick and drop services providers
 
-    There are plenty of projects done in my own company for my clients you may check my portfolio: [Fahad's Portfolio](https://www.fahadshahzad.com/)
+There are plenty of projects done in my own company for my clients you may check my portfolio: [Fahad's Portfolio](https://www.fahadshahzad.com/)
     
 ### Company Site 
-    🔗 [FasTech Official Website](https://www.fastechsystem.com/)
+🔗 [FasTech Official Website](https://www.fastechsystem.com/)
     
 ### Portfolio    
-    🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
+🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
 
 ### Technologies I can flow in:
     👉   Spring (Java)
