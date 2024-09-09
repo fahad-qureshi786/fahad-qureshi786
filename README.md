@@ -23,7 +23,7 @@ Hard work and passion can pay you back. I have reaped the results of my efforts.
 There are plenty of projects done in my own company for my clients you may check my portfolio: [Fahad's Portfolio](https://www.fahadshahzad.com/)
     
 ### Company Site 
-🔗 [FasTech Official Website](https://www.fastechsystem.com/)
+🔗 [Review our Private Limited Company Contributions](https://www.novasyncdynamics.com/)
     
 ### Portfolio    
 🔗 [Fahad's Personal Portfolio Website](https://www.fahadshahzad.com/)
