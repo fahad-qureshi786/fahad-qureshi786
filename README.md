@@ -8,7 +8,7 @@
 - **Jul 2019 - Aug 2021** -> Started as a junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
 
 ### Part-Time Activities
-- In order to learn many things I started a Freelance career at Fiverr & Upwork (Secured a Level 2 Seller Position on [Fiverr](https://www.fiverr.com/fahadqureshi2) and Top Rated [ @Upwork](https://www.upwork.com/freelancers/~01255e73e2ffad9cd7))
+- In order to learn many things I started a Freelance career at Fiverr & Upwork (Secured a Level 2 Seller Position on [Fiverr](https://www.fiverr.com/fahadqureshi2) and **Top Rated** [ @Upwork](https://www.upwork.com/freelancers/~01255e73e2ffad9cd7))
 - Hard work and passion can pay you back. I have reaped the results of my efforts. In my availability, I used to write blogs to enhance my understanding and share my knowledge in the community because sharing is caring at [Fahad's Blogs](https://www.fahadshahzad.com/blog)
     
 ### Our Company Site 
