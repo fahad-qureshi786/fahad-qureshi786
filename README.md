@@ -2,7 +2,7 @@
 
 
 ###  About Fahad's Professional Side:
-- **CEO** -> NovaSync Dynamics Private Limited [NovaSync Dynamics](https://www.novasyncdynamics.com)
+- **April 2024 - Present** -> Co-Founder and CEO at NovaSync Dynamics Private Limited [NovaSync Dynamics](https://www.novasyncdynamics.com)
 - **Aug, 2023 - Jan 2024** -> Promoted to Co-Founder & CTO at [Augier.ai](https://augier.ai)
 - **Jul 2022 - 2024** -> Hired as Co-Founder & CTO [at impros.io](https://impros.io/) -> as a Java Full Stack Developer Expert
 - **Jul 2019 - Aug 2021** -> Started as a junior developer [Idea to Product Sukkur, Sindh Pakistan](https://i2p.com.pk/)
