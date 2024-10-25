@@ -29,6 +29,8 @@ Hard work and passion can pay you back. I have reaped the results of my efforts.
 * AI LLM/Pinecone/Huggingface/Vector Databases Integration in order to make the applications more profitable and intelligent.
 * Load Balances and high traffic architecture-based applications solution from MVP -> Product Development
 * We support 1-All database solutions in order to develop custom solutions.
+
+### My Git Contributions Stats as developer
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
