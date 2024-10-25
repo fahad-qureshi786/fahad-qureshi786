@@ -24,7 +24,7 @@
 * Load Balances and high traffic architecture-based applications solution from MVP -> Product Development
 * We support 1-All database solutions in order to develop custom solutions.
 
-### My Git Contributions Stats as developer
+### My Git Contributions Stats as a developer
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=fahad-qureshi786)  
 <br/>
  ![GitHub Activity stats]( https://activity-graph.herokuapp.com/graph?username=fahad-qureshi786)
