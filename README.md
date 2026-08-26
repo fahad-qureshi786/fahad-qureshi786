@@ -162,18 +162,16 @@ From idea → architecture → MVP → deployment → iteration.
 ## 📊 GitHub Snapshot
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahad-qureshi786&show_icons=true&theme=transparent&hide_border=true&title_color=17A6A0&icon_color=17A6A0&text_color=8B949E&bg_color=00000000" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahad-qureshi786&layout=compact&theme=transparent&hide_border=true&title_color=17A6A0&text_color=8B949E&bg_color=00000000" alt="Top languages" />
-
+  <a href="https://github.com/fahad-qureshi786">
+    <img height="165" src="https://github-readme-stats.shion.dev/api?username=fahad-qureshi786&show_icons=true&theme=transparent&hide_border=true&title_color=17A6A0&icon_color=17A6A0&text_color=8B949E&bg_color=0D1117" alt="Fahad's GitHub stats" />
+  </a>
+  <a href="https://github.com/fahad-qureshi786">
+    <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=fahad-qureshi786&layout=compact&theme=transparent&hide_border=true&title_color=17A6A0&text_color=8B949E&bg_color=0D1117" alt="Top languages" />
+  </a>
   <br/>
-
-  <img src="https://streak-stats.demolab.com?user=fahad-qureshi786&theme=transparent&hide_border=true&ring=17A6A0&fire=17A6A0&currStreakLabel=17A6A0" alt="GitHub streak" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=fahad-qureshi786&theme=algolia&no-frame=true&column=7&margin-w=8" alt="GitHub trophies" />
-
+  <a href="https://github.com/fahad-qureshi786">
+    <img src="https://streak-stats.demolab.com?user=fahad-qureshi786&theme=dark&hide_border=true&ring=17A6A0&fire=17A6A0&currStreakLabel=17A6A0&sideLabels=8B949E&dates=8B949E&background=0D1117" alt="GitHub streak" />
+  </a>
 </div>
 
 ---
